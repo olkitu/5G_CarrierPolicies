@@ -1,6 +1,6 @@
-## OnePlus 9 and 9 Pro
+# OnePlus 9 and 9 Pro
 
-Data is taken from OnePlus 9 Pro firmware 11.2.1.1.LE15BA Carrier Policy files. All OnePlus Unlocked models share same modem configurations but hardware supported combinations are different. 
+Data is taken from OnePlus 9 Pro firmware 11.2.5.5 Carrier Policy files. All OnePlus Unlocked models share same modem configurations but hardware supported combinations are different. 
 
 Check in cacombos.com site supported combinations:
 
@@ -96,10 +96,11 @@ Check in cacombos.com site supported combinations:
 
 ### France
 
-| Provider | 5G NSA Bands     | 5G SA Bands | DSS enabled | 5G Roaming Networks |
-|----------|------------------|-------------|-------------|---------------------|
-| Bouygues | n1, n3, n28, n78 |             | true        |                     |
-| Free     | n1, n3, n28, n78 |             | true        |                     |
+| Provider | 5G NSA Bands              | 5G SA Bands | DSS enabled | 5G Roaming Networks |
+|----------|---------------------------|-------------|-------------|---------------------|
+| Bouygues | n1, n3, n28, n78          |             | true        |                     |
+| Free     | n1, n3, n28, n78          |             | true        |                     |
+| Orange   | n1, n3, n7, n20, n28, n78 |             | true        |                     |
 
 ### Germany
 
@@ -157,6 +158,12 @@ Check in cacombos.com site supported combinations:
 |----------|--------------|-------------|-------------|---------------------|
 | Orange   | n1, n78      |             | true        |                     |
 | Vodafone | n78          |             | true        |                     |
+
+### Slovakia
+
+| Provider | 5G NSA Bands | 5G SA Bands | DSS Enabled | 5G Roaming Networks |
+|----------|--------------|-------------|-------------|---------------------|
+| Orange   | n78          |             | true        |                     |
 
 ### Spain
 
