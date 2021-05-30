@@ -159,12 +159,12 @@ Check in cacombos.com site supported combinations:
 
 ### Sweden
 
-| Provider | 5G NSA Bands    | 5G SA Bands | DSS enabled | 5G Roaming Networks         |
-|----------|-----------------|-------------|-------------|-----------------------------|
-| 3        | n1, n3, n7, n78 |             | true        |                             |
-| Tele2    | n78             |             | false       |                             |
-| Telenor  | n28, n78        |             | true        |                             |
-| Telia    | 28              |             | true        | Telia Finland, Telia Norway |
+| Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks         |
+|----------|----------------------|-------------|-------------|-----------------------------|
+| 3        | n1, n3, n7, n78      |             | true        |                             |
+| Tele2    | n78                  |             | false       |                             |
+| Telenor  | n28, n78             |             | true        |                             |
+| Telia    | n1, n3, n7, n28, n78 |             | true        | MCC: 240 242 244 248 246 |
 
 ### Swizerland
 
