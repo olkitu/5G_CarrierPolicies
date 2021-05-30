@@ -166,6 +166,12 @@ Check in cacombos.com site supported combinations:
 | Telenor  | n28, n78        |             | true        |                             |
 | Telia    | 28              |             | true        | Telia Finland, Telia Norway |
 
+### Swizerland
+
+| Provider | 5G NSA Bands | 5G SA Bands | DSS Enabled | 5G Roaming Networks |
+|----------|--------------|-------------|-------------|---------------------|
+| Sunrise  | n78          |             | false       |                     |
+
 ### United Kingdom
 
 | Provider | 5G NSA Bands | 5G SA Bands | DSS enabled | 5G Roaming Networks |
