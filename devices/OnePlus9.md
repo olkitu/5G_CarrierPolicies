@@ -84,6 +84,7 @@ Check in cacombos.com site supported combinations:
 
 | Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|----------------------|-------------|-------------|---------------------|
+| Elisa    | n38, n78             |             | true        |                     |
 | Telia    | n1, n3, n7, n28, n78 |             | true        |                     |
 
 ### Finland
