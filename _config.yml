@@ -2,5 +2,5 @@ title: 5G Carrier Policies
 description: >
   List of networks where 5G is enabled by default on different mobile devices.
 url: 'https://olkitu.github.io/5G_CarrierPolicies'
-baseurl: 'https://olkitu.github.io/5G_CarrierPolicies'
+baseurl: '/5G_CarrierPolicies'
 theme: jekyll-theme-cayman
