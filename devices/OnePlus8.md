@@ -45,6 +45,13 @@ Check in cacombos.com site supported combinations:
 | Singtel  | n1, n78      |             | true        |                     |
 | Starhub  | n1           |             | true        |                     |
 
+### Vietnam
+
+| Provider  | 5G NSA Bands | 5G SA Bands | DSS Enabled | 5G Roaming Networks |
+|-----------|--------------|-------------|-------------|---------------------|
+| Viettel   | n41, n78     |             | false       |                     |
+| Vinaphone | n41, n78     |             | false       |                     |
+
 ## Europe
 
 ### Austria
@@ -185,9 +192,12 @@ Check in cacombos.com site supported combinations:
 
 ### Israel
 
-| Provider | 5G NSA Bands | 5G SA Bands | DSS enabled | 5G Roaming Networks |
-|----------|--------------|-------------|-------------|---------------------|
-| Partner  | n78          |             | false       |                     |
+| Provider   | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
+|------------|----------------------|-------------|-------------|---------------------|
+| Cellcom    | n78                  |             | false       |                     |
+| Hotmobile  | n1, n3, n7, n28, n78 |             | true        |                     |
+| Partner    | n78                  |             | false       |                     |
+| Pelephone  | n28, n78             |             | true        |                     |
 
 ### Kuwait
 
