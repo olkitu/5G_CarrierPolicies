@@ -1,16 +1,19 @@
-# OnePlus 9 Pro
+## OnePlus 9 and 9 Pro
 
 Data is taken from OnePlus 9 Pro firmware 11.2.1.1.LE15BA Carrier Policy files. All OnePlus Unlocked models share same modem configurations but hardware supported combinations are different. 
 
 Check in cacombos.com site supported combinations:
 
-* OnePlus 9 Pro (Global): https://cacombos.com/device/LE2123
-* OnePlus 9 Pro (US): https://cacombos.com/device/LE2125
-* OnePlus 9 Pro (China): https://cacombos.com/device/LE2120
+9 Pro:
 
-# Asia
+* [Global](https://cacombos.com/device/LE2123)
+* [US](https://cacombos.com/device/LE2125)
+* [China](https://cacombos.com/device/LE2120)
+* [India](https://cacombos.com/device/LE2121)
 
-## China
+## Asia
+
+### China
 
 | Provider      | 5G NSA Bands             | 5G SA Bands   | DSS enabled | 5G Roaming Networks |
 |---------------|--------------------------|---------------|-------------|---------------------|
@@ -20,7 +23,7 @@ Check in cacombos.com site supported combinations:
 
 * Depends different SIM-card because in firmware have two different configuration files. 
 
-## Hong Kong
+### Hong Kong
 
 | Provider        | 5G NSA Bands           | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |-----------------|------------------------|-------------|-------------|---------------------|
@@ -28,7 +31,7 @@ Check in cacombos.com site supported combinations:
 | China Mobile HK | n77, n78               |             | false       |                     |
 | HKT             | n1, n3, n78, n79, n257 |             | false       |                     |
 
-## Singapore
+### Singapore
 
 | Provider | 5G NSA Bands     | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|------------------|-------------|-------------|---------------------|
@@ -36,7 +39,7 @@ Check in cacombos.com site supported combinations:
 | Singtel  | n1, n3, n28, n78 |             | true        |                     |
 | StarHub  | n1               |             | true        |                     |
 
-## Thailand
+### Thailand
 
 | Provider  | 5G NSA Bands          | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |-----------|-----------------------|-------------|-------------|---------------------|
@@ -45,22 +48,22 @@ Check in cacombos.com site supported combinations:
 | My by Cat | n28, n41              |             | true        |                     |
 | True      | n1, n3, n28, n41, n78 |             | true        |                     |
 
-# Europe
+## Europe
 
-## Austria
+### Austria
 
 | Provider | 5G NSA Bands              | 5G SA Bands | DSS enabled | 5G Roaming Networks                      |
 |----------|---------------------------|-------------|-------------|------------------------------------------|
 | A1       | n1, n3, n28, n78          |             | true        |                                          |
 | Magenta  | n1, n3, n7, n28, n38, n78 |             | true        | MCC: 232 204 262 216 260 231 219 202 230 |
 
-## Belgium
+### Belgium
 
 | Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|----------------------|-------------|-------------|---------------------|
 | Proximus | n1, n3, n7, n28, n78 |             | true        |                     |
 
-## Czech
+### Czech
 
 | Provider | 5G NSA Bands              | 5G SA Bands | DSS enabled | 5G Roaming Networks                      |
 |----------|---------------------------|-------------|-------------|------------------------------------------|
@@ -68,7 +71,7 @@ Check in cacombos.com site supported combinations:
 | T-Mobile | n1, n3, n7, n28, n38, n78 |             | true        | MCC: 232 204 262 216 260 231 219 202 230 |
 | Vodafone | n1, n3, n7, n28, n78      |             | true        |                                          |
 
-## Denmark
+### Denmark
 
 | Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|----------------------|-------------|-------------|---------------------|
@@ -77,13 +80,13 @@ Check in cacombos.com site supported combinations:
 | Telenor  | n78                  |             | true        |                     |
 | Telia    | n1, n3, n7, n28, n78 |             | true        |                     |
 
-## Estonia
+### Estonia
 
 | Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|----------------------|-------------|-------------|---------------------|
 | Telia    | n1, n3, n7, n28, n78 |             | true        |                     |
 
-## Finland
+### Finland
 
 | Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|----------------------|-------------|-------------|---------------------|
@@ -91,27 +94,27 @@ Check in cacombos.com site supported combinations:
 | Elisa    | n78                  |             | false       |                     |
 | Telia    | n1, n3, n7, n28, n78 |             | true        | Telia Norway        |
 
-## France
+### France
 
 | Provider | 5G NSA Bands     | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|------------------|-------------|-------------|---------------------|
 | Bouygues | n1, n3, n28, n78 |             | true        |                     |
 | Free     | n1, n3, n28, n78 |             | true        |                     |
 
-## Germany
+### Germany
 
 | Provider | 5G NSA Bands              | 5G SA Bands | DSS enabled | 5G Roaming Networks                      |
 |----------|---------------------------|-------------|-------------|------------------------------------------|
 | Telekom  | n1, n3, n7, n28, n38, n78 |             | true        | MCC: 232 204 262 216 260 231 219 202 230 |
 | Vodafone | n1, n3, n7, n28, n78      |             | true        |                                          |
 
-## Hungary
+### Hungary
 
 | Provider | 5G NSA Bands              | 5G SA Bands | DSS enabled | 5G Roaming Networks                      |
 |----------|---------------------------|-------------|-------------|------------------------------------------|
 | T-Mobile | n1, n3, n7, n28, n38, n78 |             | true        | MCC: 232 204 262 216 260 231 219 202 230 |
 
-## Italy
+### Italy
 
 | Provider | 5G NSA Bands              | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|---------------------------|-------------|-------------|---------------------|
@@ -119,13 +122,13 @@ Check in cacombos.com site supported combinations:
 | Vodafone | n3, n78                   |             | true        |                     |
 | WinTre   | n1, n3, n7, n38, n77, n78 |             | true        |                     |
 
-## Lithuania
+### Lithuania
 
 | Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|----------------------|-------------|-------------|---------------------|
 | Telia    | n1, n3, n7, n28, n78 |             | true        |                     |
 
-## Netherlands
+### Netherlands
 
 | Provider | 5G NSA Bands              | 5G SA Bands | DSS enabled | 5G Roaming Networks                      |
 |----------|---------------------------|-------------|-------------|------------------------------------------|
@@ -134,7 +137,7 @@ Check in cacombos.com site supported combinations:
 | T-Mobile | n1, n3, n7, n28, n38, n78 |             | true        | MCC: 232 204 262 216 260 231 219 202 230 |
 | Vodafone | n1, n3, n7, n28, n78      |             | true        |                                          |
 
-## Norway
+### Norway
 
 | Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|----------------------|-------------|-------------|---------------------|
@@ -142,20 +145,20 @@ Check in cacombos.com site supported combinations:
 | Telenor  | n28, n78             |             | true        |                     |
 | Telia    | n1, n3, n7, n28, n78 |             | true        | Telia Finland       |
 
-## Poland
+### Poland
 
 | Provider | 5G NSA Bands              | 5G SA Bands | DSS enabled | 5G Roaming Networks                      |
 |----------|---------------------------|-------------|-------------|------------------------------------------|
 | T-Mobile | n1, n3, n7, n28, n38, n78 |             | true        | MCC: 232 204 262 216 260 231 219 202 230 |
 
-## Romania
+### Romania
 
 | Provider | 5G NSA Bands | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|--------------|-------------|-------------|---------------------|
 | Orange   | n1, n78      |             | true        |                     |
 | Vodafone | n78          |             | true        |                     |
 
-## Spain
+### Spain
 
 | Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|----------------------|-------------|-------------|---------------------|
@@ -163,7 +166,7 @@ Check in cacombos.com site supported combinations:
 | Orange   | n1, n3, n28, n78     |             | true        |                     |
 | Vodafone | n1, n3, n7, n28, n78 |             | true        |                     |
 
-## Sweden
+### Sweden
 
 | Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|----------------------|-------------|-------------|---------------------|
@@ -172,7 +175,7 @@ Check in cacombos.com site supported combinations:
 | Telenor  | n3, n28, n78         |             | true        |                     |
 | Telia    | n1, n3, n7, n28, n78 |             | true        |                     |
 
-## United Kingdom
+### United Kingdom
 
 | Provider  | 5G NSA Bands | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |-----------|--------------|-------------|-------------|---------------------|
@@ -181,15 +184,15 @@ Check in cacombos.com site supported combinations:
 | O2        | n28, n78     |             | true        |                     |
 | Vodafone | n28, n78     |             | true        |                     |
 
-# Middle East
+## Middle East
 
-## UAE
+### UAE
 
 | Provider | 5G NSA Bands | 5G SA Bands | DSS enabled | 5G Roaming Networks |
 |----------|--------------|-------------|-------------|---------------------|
 | DU       | n41, n78     |             | false       |                     |
 
-# North America
+## North America
 
 | Provider | DSS enabled | 5G Roaming Networks |
 |----------|-------------|---------------------|
