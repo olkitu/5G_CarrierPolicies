@@ -1,6 +1,6 @@
 # OnePlus 8 and 8 Pro
 
-Data is taken from OnePlus 8 11.0.5.5 Carrier Policy files. All OnePlus Unlocked models share same modem configurations but hardware supported combinations are different. 
+Data is taken from OnePlus 8 11.0.6.6 Carrier Policy files. All OnePlus Unlocked models share same modem configurations but hardware supported combinations are different. 
 
 Check in cacombos.com site supported combinations:
 
@@ -68,26 +68,26 @@ Check in cacombos.com site supported combinations:
 
 ### Denmark
 
-| Provider | 5G NSA Bands | 5G SA Bands | DSS enabled | 5G Roaming Networks |
-|----------|--------------|-------------|-------------|---------------------|
-| 3        | n3, n78      |             | true        |                     |
-| Telenor  | n78          |             | false       |                     |
-| TDC      | n28, n78     |             | true        |                     |
-| Telia    | n28, n78     |             | true        |                     |
+| Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks      |
+|----------|----------------------|-------------|-------------|--------------------------|
+| 3        | n3, n78              |             | true        |                          |
+| Telenor  | n78                  |             | false       |                          |
+| TDC      | n28, n78             |             | true        |                          |
+| Telia    | n1, n3, n7, n28, n78 |             | true        | MCC: 240 242 244 248 246 |
 
 ### Estonia
 
-| Provider | 5G NSA Bands    | 5G SA Bands | DSS enabled | 5G Roaming Networks |
-|----------|-----------------|-------------|-------------|---------------------|
-| Telia    | n1, n3, n7, n78 |             | true        |                     |
+| Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks              |
+|----------|----------------------|-------------|-------------|----------------------------------|
+| Telia    | n1, n3, n7, n28, n78 |             | true        | MCC: 240 242 244 248 246         |
 
 ### Finland
 
-| Provider | 5G NSA Bands | 5G SA Bands | DSS enabled | 5G Roaming Networks              |
-|----------|--------------|-------------|-------------|----------------------------------|
-| DNA      | n78          |             | false       |                                  |
-| Elisa    | n78          |             | false       |                                  |
-| Telia    | n78          |             | false       | Telia Norway, Telia Sweden       |
+| Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks              |
+|----------|----------------------|-------------|-------------|----------------------------------|
+| DNA      | n78                  |             | false       |                                  |
+| Elisa    | n78                  |             | false       |                                  |
+| Telia    | n1, n3, n7, n28, n78 |             | true        | MCC: 240 242 244 248 246         |
 
 ### France
 
@@ -112,9 +112,9 @@ Check in cacombos.com site supported combinations:
 
 ### Lithuania
 
-| Provider | 5G NSA Bands | 5G SA Bands | DSS enabled | 5G Roaming Networks |
-|----------|--------------|-------------|-------------|---------------------|
-| Telia    | n78          |             | false       |                     |
+| Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks              |
+|----------|----------------------|-------------|-------------|----------------------------------|
+| Telia    | n1, n3, n7, n28, n78 |             | true        | MCC: 240 242 244 248 246         |
 
 ### Ireland
 
@@ -133,10 +133,10 @@ Check in cacombos.com site supported combinations:
 
 ### Norway 
 
-| Provider | 5G NSA Bands | 5G SA Bands | DSS enabled | 5G Roaming Networks         |
-|----------|--------------|-------------|-------------|-----------------------------|
-| Telenor  | n28, n78     |             | false       |                             |
-| Telia    | n28, n78     |             | true        | Telia Sweden, Telia Finland |
+| Provider | 5G NSA Bands         | 5G SA Bands | DSS enabled | 5G Roaming Networks      |
+|----------|----------------------|-------------|-------------|--------------------------|
+| Telenor  | n28, n78             |             | false       |                          |
+| Telia    | n1, n3, n7, n28, n78 |             | true        | MCC: 240 242 244 248 246 |
 
 ### Poland
 
